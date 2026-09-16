@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: turtlepac@yahoo.com.au, denkat1050@aol.com
-At: 2026-09-16 16:55:16
-Id: p3eUM8ur
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: nadinecreamer@aol.com, tgtober@aol.com
+At: 2026-09-16 16:55:55
+Id: MfbOw7GG
